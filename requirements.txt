@@ -1,0 +1,11 @@
+python-dotenv
+SpeechRecognition
+groq
+gTTS
+httpx
+twilio
+pyserial
+customtkinter
+pygame
+opencv-contrib-python
+numpy
